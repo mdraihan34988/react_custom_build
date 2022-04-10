@@ -1,8 +1,8 @@
 import React from "react";
 import "App.css"
 import ImageFile from "./download.png"
-import BabelFile from "./babel.png"
-import WebpackFile from "./webpack.png"
+import BabelFile from "./ex1.png"
+import WebpackFile from "./ex2.png"
 
 const App = () => (
     <div>
